@@ -1,6 +1,6 @@
 {
   "name": "zhu-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "1826865187@qq.com <1826865187@qq.com>",
   "homepage": "",
@@ -20,6 +20,6 @@
     "isbinaryfile": "^4.0.8",
     "lodash.clonedeep": "^4.5.0",
     "ora": "^5.4.0",
-    "zhu-cli-shared-utils": "^0.0.0"
+    "zhu-cli-shared-utils": "^1.0.0"
   }
 }
