@@ -2,7 +2,7 @@ class PromptModuleAPI {
     constructor(creator) {
         this.creator = creator
     }
-    // 在特性里添加每个特性
+    // 在要选择的特性choices选项中添加待选项
     injectFeature(feature) {
         this.creator.featurePrompt.choices.push(feature)
     }
